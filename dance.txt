@@ -2,3 +2,4 @@ Step left
 Step Right
 Jump Jump
 Boggie Dance and Salute
+JUMp jump jump left
